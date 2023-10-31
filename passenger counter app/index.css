@@ -1,0 +1,25 @@
+button
+{
+    color: aliceblue;
+    background-color: red;
+    font-size: medium;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+#bt2
+{
+  background-color: green;
+}
+p
+{
+ font-size: larger;
+}
+body
+{
+  text-align: center;
+  padding-top: 170px;
+  background-image:url(train.jpg);
+}
